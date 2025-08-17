@@ -17,15 +17,13 @@ This repository contains a collection of beginner-friendly Python lessons, scrip
 
 ```
 python-fundamentals/
-├── 01_hello_world.py
-├── 02_variables_and_types.py
-├── 03_conditionals.py
-├── 04_loops.py
-├── 05_functions.py
-├── 06_modules.py
-├── 07_file_io.py
-├── 08_exceptions.py
-├── 09_oop_basics.py
+├── 01-Data Types
+├── 02-Keywords & Variables
+├── 03-Functions, Modules & Packages
+├── 04-Command Line Arguments, Environment Variables 
+├── 05-List and Tuples
+├── 06-Loop
+├── 08-dictionary and set
 └── README.md
 ```
 
@@ -39,10 +37,12 @@ Each script is standalone and contains in-line comments to help you follow along
    ```bash
    git clone https://github.com/yourusername/python-fundamentals.git
    ```
-2. Run the scripts using Python 3
+2. Select the folder you want to work on
+
+3. Run the scripts using Python 3. For example:
 
    ```bash
-   python3 01_hello_world.py
+   python3 01-concat.py
    ```
 
 No external packages required — everything runs with standard Python.
