@@ -35,7 +35,7 @@ Each script is standalone and contains in-line comments to help you follow along
 1. Clone this repo
 
    ```bash
-   git clone https://github.com/yourusername/python-fundamentals.git
+   git clone https://github.com/djcloudking/python-fundamentals.git
    ```
 2. Select the folder you want to work on
 
